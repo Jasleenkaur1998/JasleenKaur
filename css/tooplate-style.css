@@ -116,7 +116,7 @@ b, strong {
 }
 
 .animated-item {
-  color: #ffc200;
+  color:  #8f615a;
 }
 
 .animated-item {
@@ -430,10 +430,10 @@ b, strong {
   height: 48px;
 }
 .contact-form .form-control:hover, .contact-form .form-control:focus {
-  border-color: #ffc200;
+  border-color:  #8f615a;
 }
 .contact-form .submit-btn {
-  background: #ffc200;
+  background:  #8f615a;
   border-radius: 50px;
   color: #ffffff;
   font-weight: bold;
